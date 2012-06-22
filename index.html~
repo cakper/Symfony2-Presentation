@@ -482,7 +482,7 @@
 	<div class="slide cover w" id="question"><div>
 		<section>
 			<header>
-				<h2 class="middle white shadow">W jakim mieście odbyła się ostatnio największa konferencja <br />Symfony2 zorganizowana przez Sensio Labs?</h2>
+				<h2 class="middle white shadow">W jakim mieście odbyła się największa konferencja <br />Symfony2 zorganizowana przez Sensio Labs?</h2>
 			</header>
 				<img src="pictures/final.jpg" alt="">
 		</section>
